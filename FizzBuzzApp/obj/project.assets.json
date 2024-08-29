@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj",
       "projectName": "FizzBuzzApp",
-      "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj",
+      "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj",
       "packagesPath": "C:\\Users\\Jhonatan Ortega\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\obj\\",
+      "outputPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonatan Ortega\\AppData\\Roaming\\NuGet\\NuGet.Config"

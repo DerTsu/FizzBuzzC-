@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj": {}
+    "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj": {
+    "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj",
         "projectName": "FizzBuzzApp.Tests",
-        "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj",
+        "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp.Tests\\FizzBuzzApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Jhonatan Ortega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan Ortega\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj": {
-                "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj"
+              "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj": {
+                "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -84,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj": {
+    "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj",
         "projectName": "FizzBuzzApp",
-        "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\FizzBuzzApp.csproj",
+        "projectPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\FizzBuzzApp.csproj",
         "packagesPath": "C:\\Users\\Jhonatan Ortega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan Ortega\\Documents\\USB\\Técnicas\\FizzBuzzApp\\FizzBuzzApp\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan Ortega\\Documents\\GitHub\\FizzBuzzC-\\FizzBuzzApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan Ortega\\AppData\\Roaming\\NuGet\\NuGet.Config"
