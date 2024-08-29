@@ -4,7 +4,7 @@ using FizzBuzzApp.Interfaces;
 
 namespace FizzBuzzApp
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
